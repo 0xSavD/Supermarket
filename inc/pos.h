@@ -2,7 +2,7 @@
  * @file pos.h
  * @author Dan 0xSavD
  * @brief Point of Sale (pos) header file for the entire class and methods
- * related to the pos system of the super market.
+ * related to the pos system of the supermarket.
  * @version 1.0
  * @date 2024-09-13
  */

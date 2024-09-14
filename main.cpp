@@ -1,7 +1,7 @@
 /**
  * @file main.cpp
  * @author Dan 0xSavD
- * @brief Main program for the super market pos system.
+ * @brief Main program for the supermarket pos system.
  * @version 1.0
  * @date 2024-09-13
  */
