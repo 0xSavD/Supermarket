@@ -11,7 +11,6 @@ Pos::Pos(int schema)
 
 Pos::~Pos()
 {
-    std::cout << "Shutting down." << std::endl;
 }
 
 void Pos::scanItem(std::string itemNumber) {
